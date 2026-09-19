@@ -11,7 +11,7 @@ namespace GoopGunSystem
 		fireRate = 0.5;
 		fireTimer = 0.0f;
 
-		automatic = false
+		automatic = false;
 		reloading = false;
 	}
 
